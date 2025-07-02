@@ -1,1 +1,2 @@
-Nama: Nasyila Putri Ardita Pesan: Saya sedang belajar Git dan GitHub Push ke Repository Lakukan commit dan push ke branch masing-masing
+Nama: Nasyila Putri Ardita 
+Pesan: Saya sedang belajar Git dan GitHub
