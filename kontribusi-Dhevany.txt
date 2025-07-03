@@ -1,4 +1,0 @@
-
-nama: Dhevany Fadilah Ibrahim
-
-pesan: sedang belajar git dan github
